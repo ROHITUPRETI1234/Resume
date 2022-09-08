@@ -1,0 +1,23 @@
+body{
+  background-color:#EB1D36;
+}
+hr{
+  border-color:#FFEA11;
+  width:5%;
+  height:2px;
+/*  border-style:dotted none none;
+*/
+border-width: 10px;
+border-style:none;
+border-top-style:dotted;
+/*  border-image-width:50%:url('buddha.png');*/
+
+}
+h1{
+  background-color: #3CCF4E;
+    color:#EB1D36;
+  }
+  h3{
+    background-color: #3CCF4E;
+    color:#0F3460;
+    }
